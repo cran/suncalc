@@ -1,6 +1,6 @@
 Package: suncalc
-Version: 0.3
-Date: 2017-10-04
+Version: 0.4
+Date: 2018-02-22
 Title: Compute Sun Position, Sunlight Phases, Moon Position and Lunar
         Phase
 Authors@R: c(
@@ -18,10 +18,10 @@ URL: https://github.com/datastorm-open/suncalc,
         https://github.com/mourner/suncalc
 NeedsCompilation: no
 RoxygenNote: 6.0.1
-Packaged: 2017-10-04 09:09:26 UTC; Datastorm
+Packaged: 2018-02-22 08:17:10 UTC; Datastorm
 Author: Vladimir Agafonkin [aut, cph] (suncalc.js library/lib,
     https://github.com/mourner),
   Benoit Thieurmel [aut, cre] (R interface)
 Maintainer: Benoit Thieurmel <benoit.thieurmel@datastorm.fr>
 Repository: CRAN
-Date/Publication: 2017-10-04 09:14:07 UTC
+Date/Publication: 2018-02-22 08:24:44 UTC
