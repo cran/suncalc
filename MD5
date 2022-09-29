@@ -1,7 +1,7 @@
-01a9e0cb35247af4c03d65b18844225e *DESCRIPTION
+3f40d276efce35cd3667d4f563aeb15c *DESCRIPTION
 f16917505dc0c06b62aac0b49992f12f *LICENSE
 f94fe2547fe50e7aff89ee5f83a3ed2a *NAMESPACE
-f73620efd43e2c9d7cd425427225eea0 *NEWS.md
+f56c6f643e47afc73db6443f51fb51fc *NEWS.md
 fce8cfccd3ac5e0877b11a9d0feb4496 *R/calcFunctions.R
 fe65355349f0f64e1260b58e09afe67b *R/getMoonIllumination.R
 5fac9882c0410564821f4e5a3df4271c *R/getMoonPosition.R
@@ -10,10 +10,10 @@ c4a005cab05d782bd764bda48f641e51 *R/getSunlightPosition.R
 5addf806c638ef9bd3acd935d7bb088f *R/getSunlightTimes.R
 2692b9a2e626488bc61561b617538e6a *R/suncalc.R
 e4ff89140dbacec808818a58318c3255 *R/utils.R
-fbe2e815debc0c4bda3de3db3f8521e4 *README.md
+e23944a4a2796a3fe665f6bad0476765 *README.md
 a06f08bb84a1e11144f9a42562772438 *inst/dev_tests.R
-bf9157a9a9db7da1508a98493d8d9a3d *man/getMoonIllumination.Rd
-ca778d58e3d21e11fa208f1b4034a25e *man/getMoonPosition.Rd
-448ef3211f612ca9e04122720abffbd1 *man/getMoonTimes.Rd
-1b53dbaf5a50783081be6dd1e2654a01 *man/getSunlightPosition.Rd
-93e8694d79857cde1f8184387650bae8 *man/getSunlightTimes.Rd
+a75e7458536967b4d72d8f1ebc6a4622 *man/getMoonIllumination.Rd
+3de8aedc8bed95e36798610ac9c26ffb *man/getMoonPosition.Rd
+7fe6a012f03ebdb6e10911e17ba76dab *man/getMoonTimes.Rd
+01579b89a22328d9ad15b43d2df58cdd *man/getSunlightPosition.Rd
+b1f1c5116c639456f49b7bede47fbdb6 *man/getSunlightTimes.Rd
